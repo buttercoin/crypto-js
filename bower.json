@@ -1,0 +1,28 @@
+{
+	"name": "bower-crypto-js",
+	"version": "3.2.5",
+	"main": [  
+		"build/rollups/aes.js",
+		"build/rollups/hmac-md5.js",
+		"build/rollups/hmac-ripemd160.js",
+		"build/rollups/hmac-sha1.js",
+		"build/rollups/hmac-sha224.js",
+		"build/rollups/hmac-sha256.js",
+		"build/rollups/hmac-sha3.js",
+		"build/rollups/hmac-sha384.js",
+		"build/rollups/hmac-sha512.js",
+		"build/rollups/md5.js",
+		"build/rollups/pbkdf2.js",
+		"build/rollups/rabbit-legacy.js",
+		"build/rollups/rabbit.js",
+		"build/rollups/rc4.js",
+		"build/rollups/ripemd160.js",
+		"build/rollups/sha1.js",
+		"build/rollups/sha224.js",
+		"build/rollups/sha256.js",
+		"build/rollups/sha3.js",
+		"build/rollups/sha384.js",
+		"build/rollups/sha512.js",
+		"build/rollups/tripledes.js"
+	]
+}
